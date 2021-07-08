@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Baljeet Singh.
 - 👀 I’m interested in Coding and development.
-- 🌱 I’m currently learning DSA.
+- 🌱 I’m a begginer in full-stack development.
 - 📫 You can reach me by my Email ID :- baljeetsinghsomvanshi8745@gmail.com or baljeet20@navgurukul.org
 
 
